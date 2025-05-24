@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"ps9tpvq1l9ugm","package_name":"labchain_smartcontract","contract_name":"DeviceRegistry","module_path":"labchain_smartcontract::device_registry::DeviceRegistry","artifacts":{"sierra":"labchain_smartcontract_DeviceRegistry.contract_class.json","casm":null}}]}
